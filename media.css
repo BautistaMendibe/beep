@@ -1,0 +1,188 @@
+	.logomovill{
+		width: 250px; 
+		height: auto; 
+		display:none;
+
+	}
+	.imgportmovil{
+		width: 300px; 
+		height: auto;
+		display: none; 
+
+	}
+
+	.bloquetextoport{
+		background: white; 
+		width: 50%;
+		height: 500px; 
+		float: left; 
+		margin-top: 15%;
+
+	}
+
+	#textoport{
+		display: block; 
+		font-size: 30px;
+	}
+
+
+
+	.funciones{
+		width: 100%;  min-width: 829px; height: 830px; background:white;
+		display: block;
+	}
+
+	.funciones2{
+		width: 100%; 
+		margin-right: 2.5%; 
+		margin-left: 2.5%;
+		 background:white;
+		 height: 100%; 
+		margin: 0;
+		padding: 0; 
+		margin-left: 0%;  
+		max-width:1500px;
+		
+	}
+
+#imgprestarmovil{
+	width: 260px; height: auto; margin-top: 60px; 
+}
+
+.funcionesmovil{
+	display: none;
+	width: 100%; 
+	height: 700px; 
+	background: red;
+
+	}
+
+.pedirmovil{
+
+	background: #FDE47F; 
+	width: 100%;   
+	height: 100%;
+	}
+
+#titulopedir{
+	background: #FDE47F; 
+	width: 80%; 
+	height: 30%; 
+	margin-top: 3%; 
+	font-size: 30px;
+
+}
+
+
+
+.funcionesmovil2{
+	display: none;
+	width: 100%; 
+	height: 700px; 
+	background: white;
+
+	}
+
+.prestarmovil{
+
+	background: #C0D2E5; 
+	width: 100%;   
+	height: 100%;
+	}
+
+#tituloprestar{
+	background: #C0D2E5; 
+	width: 80%; 
+	height: 30%; 
+	margin-top: 3%; 
+	font-size: 30px;
+
+}
+
+#bloquevideo{
+
+	background:white; width: 80%; height: 90%;
+
+}
+
+
+@media(max-width: 850px){
+	#imgcabe{
+		display: none; 
+	}
+
+	.portada{
+		background: #fffc00;
+		width: 100%;
+		height: 830px; 
+		margin: 0; 
+
+	}
+	.logomovill{
+		width: 200px; 
+		height: auto; 
+		display:block;
+		margin: 0;
+
+	}
+
+	.bloquetextoport{
+		display: block; 
+		width: 100%; 
+		height: 100px; 
+		background: #fffc00;
+		margin: 0;
+
+	}
+
+
+	.imgportmovil{
+		display: block;
+	}
+
+
+
+	#textoport{
+		display: block; 
+		font-size: 25px;
+	}
+
+	.bloqueimg{
+		display: none; 
+	}
+
+	.imgport{
+		display: none; 
+	}
+
+	.funciones{
+		display: none;
+	}
+
+	.funciones2{
+		display: none; 
+	}
+
+	.funcionesmovil{
+		display: block;
+	}
+
+	.funcionesmovil2{
+		display: block;
+	}
+
+	#imgprestarmovil{
+		margin-top: 30px;
+
+	}
+
+#bloquevideo{
+
+	background:white; width: 100%; height: 90%;
+
+}
+
+
+
+
+}

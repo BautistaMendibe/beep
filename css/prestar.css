@@ -1,0 +1,37 @@
+.presta{
+	background: #C0D2E5; 
+	width: 49%;
+	height: 850px;
+	float: right;
+	margin-right: 1%;
+	margin: 0;
+
+}
+
+
+#bloquetextoprestar{
+	background: #C0D2E5;
+	height: 25%;
+}
+.prestarimg{
+
+	width: 380px;
+	height: auto;
+	margin-right: 10%
+	margin-left:300px; 
+	padding-top: 1%
+}
+
+#tituloprestar{
+	font-style: normal; 
+
+	margin-top: 6.5%;
+
+}
+
+#tituloprestar2{
+	font-style:normal; 
+	margin-top: 20%;
+	margin-left: 3%;
+
+}
