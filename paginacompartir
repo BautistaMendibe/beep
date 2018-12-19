@@ -9,10 +9,10 @@
 
 
 </head>
-<body style="background-color: #24BD63; margin: 0; padding: 0;"> 
+<body style="background-color: #fffc00; margin: 0; padding: 0;"> 
 
 	<a href="paginaprincipal.html">
-		<img id="imgbeep" src="C:\Users\Usuario\Documents\imagenespag/logobeepbien2.jpg" style="width: 300px; height: auto; display: block; margin: auto;">
+		<img id="imgbeep" src="C:\Users\Usuario\Documents\imagenespag/logo2.0.png" style="width: 350px; height: auto; display: block; margin: auto;">
 
 	</a>
 	
@@ -21,9 +21,9 @@
 	<font face="Montserrat" style=" font-size: 20px; display: block; margin: auto; margin-top: 5%; text-align: center;">Si te gusta la idea y querés apoyarla, compartí esta pagina. ¡Es gratis!</font>
 
 
-	<div style="background: #24BD63; width: 100%; height: 80px">
+	<div style="background: #fffc00; width: 100%; height: 80px">
 
-		<div style="background: #24BD63; width: 80%; margin-right: 10%; height: 100%; margin-left: 10% " align="center">
+		<div style="background: #fffc00; width: 80%; margin-right: 10%; height: 100%; margin-left: 10% " align="center">
 
 			<a href="whatsapp://send? text=https://www.beep.com.es" data-action="share/whatsapp/share">
 				<img id="iconowp" src="C:\Users\Usuario\Documents\imagenespag/iconowp.png" style="width: 75px; height: auto; border-radius: 60px; display: block; margin: auto; margin-top: 50px;">
